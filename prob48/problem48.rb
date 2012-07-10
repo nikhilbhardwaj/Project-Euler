@@ -7,4 +7,4 @@ modulator = (10 ** 10)
   sum += (n ** n) % modulator
 end
 
-puts sum.to_s[-10..-1]
+puts sum % modulator
