@@ -1,3 +1,4 @@
+#!/usr/bin/env ruby
 def sum_of_fifth_powers_of_digits(n)
   sum = 0
   while n > 0
